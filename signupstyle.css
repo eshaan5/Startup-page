@@ -1,0 +1,25 @@
+#mc_embed_signup {
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  width: 75%;
+}
+html,
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#mc_embed_signup .button {
+  background-color: #f05f44;
+  border-radius: 300px;
+  padding: 1rem 2rem;
+  border-color: #f05f44;
+  text-transform: uppercase;
+  text-align: center;
+  height: 60px;
+}
+
+#mc_embed_signup .button:hover {
+  background-color: orangered;
+  border-color: orangered;
+}
